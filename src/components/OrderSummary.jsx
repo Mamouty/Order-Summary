@@ -2,6 +2,8 @@ import styled from "styled-components";
 import backgroundImage1 from "../images/pattern-background-desktop.svg";
 import backgroundImage2 from "../images/pattern-background-mobile.svg";
 
+import OSCard from "./OrderSummary-styled-components/OSCard";
+
 function OrderSummary() {
     const Section = styled.section`
     height: 100vh;
@@ -23,7 +25,7 @@ function OrderSummary() {
     `
     return (
         <Section>
-
+            <OSCard />
         </Section>
     );
 };
