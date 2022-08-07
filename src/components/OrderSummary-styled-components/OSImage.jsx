@@ -12,7 +12,7 @@ function OSImage() {
         border-top-right-radius: 20px;
     }
     `
-    return <Image src={heroImage} />
+    return <Image src={heroImage} alt="Illustration of a person listening to music"/>
 }
 
 export default OSImage;

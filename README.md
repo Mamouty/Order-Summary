@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [My solution](https://www.frontendmentor.io/solutions/order-summary-card-using-react-and-styledcomponents-IlOC3g6Q26)
+- [Live site](https://mamouty.github.io/order-summary/)
 
 ## My process
 
@@ -88,7 +88,7 @@ I found Styled-Components such a convenient and helpful way to add CSS to the Re
 ### Useful resources
 
 - [GitHub "fatal: remote origin already exists"](https://stackoverflow.com/questions/10904339/github-fatal-remote-origin-already-exists) - This helped me fix the problem I had when trying to push this project to my remote repository on github.
-- [Deploy a React app to github-pages](https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/) - I followed the steps listed in this page to deploy this project.
+- [Deploy a React app to github-pages](https://github.com/gitname/react-gh-pages) - I followed the steps listed in this page to deploy this project.
 
 ## Author
 
